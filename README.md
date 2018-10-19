@@ -66,7 +66,11 @@ El orden es muy estético, y a nivel de efectividad no tiene una relación.
 - Lista: Calendario  
   - Las cosas que solo puedes hacer un día a una hora.  
   - Si con cosas que son susceptibles a no hacerse, o las tengo que ir moviendo de un día a otro, es que no tienen que ir en el calendario, sino en una lista, e ir revisándola.  
-- Lista: Siguientes acciones
+- Lista: Siguientes acciones  
+  - Todos los elementos deben ser accionables.  
+  - No tiene que haber nada que no pueda hacer.  
+  - Cada tarea no debe durar más de 90 minutos, y en caso contrario es que se puede convertir en proyecto o subproyecto.  
+
 
 ### Incubar
 
@@ -77,8 +81,12 @@ El orden es muy estético, y a nivel de efectividad no tiene una relación.
   Lista de regalos a la pareja, de las series que quiero ves, de los viajes que quiero hacer, ...
 
 A parte de esto, hay otra lista, que es la lista de proyectos.  
+Los proyectos hay que definirlos como resultado. Por ejemplo, no vale tener un proyecto que sea "Reformas en casa", sino que es mejor tener "Hacer reformas en casa", con verbo, que quede muy definida la acción.
+
 Las listas de siguientes acciones, es aconsejable dividirlas por contexto. Por ejemplo, llamadas, o cosas que tengo que hacer con el ordenador, ...  
 Cuando vamos a ejecutar, tienen que ser sin obstáculos, ya que hemos llegado aquí habiendo pensado. Con lo que, si por ejemplo tenemos que llamar a alguien, resulta muy útil tener el teléfono apuntado.  
+
+Hay una lista que no es GTD pero que va muy bien, que es _Esta semana no_. Si la lista _Algún día / Tal vez_ es el congelador, la lista _Esta semana no_ sería la nevera.  
 
 
 ## Reflexionar
@@ -147,6 +155,11 @@ Criterios limitantes:
   Habiendo pasado estos filtros, las acciones que quedan se pueden hacer todas. Solo queda priorizarlas.  
   Para priorizar utilizamos los _Horizontes de enfoque_. Si tengo dos tareas que hacer, y una me la pide el jefe, y otra la hago porque si, pues está claro cual haré primero.  
 
+Hay otros contextos que pueden resultar útiles, como por ejemplo:
+- @Antes de salir de casa
+- @Antes de salir de la oficina
+
+
 ### Horizontes de enfoque
 
 - Propósito y principios
@@ -167,3 +180,7 @@ Otro factor que influye a la hora de elegir trabajo.
 3. Definir tu trabajo  
    Aclarar.  
 
+## Enlaces de interés
+
+https://store.gettingthingsdone.com  
+http://blog.davidtorne.com/es/  
